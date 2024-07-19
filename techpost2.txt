@@ -1,0 +1,4 @@
+this is my tech post blog 2
+initialize
+work
+terminate
